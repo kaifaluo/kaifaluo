@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-As a PhD student in physics and computational science, my recent interests are mainly on:
+As a PhD student in Physics and Computational Science, my recent interests are mainly on:
 - First-principle Algorithm
   - DFT and DFPT
 - Scientific Computing
-  - Massive parallel scientific software development
+  - Massively parallel scientific software development
   - Languages: Python, C/C++, Fortran, CUDA
   - Tools: Autotools/CMake
 
