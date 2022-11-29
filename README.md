@@ -4,9 +4,9 @@ As a PhD student in physics, my recent interests are mainly on:
 - First-principle Algorithm
   - DFT and DFPT
 - Scientific Computing
- - Massive parallel scientific software development
- - Languages: Python, C/C++, Fortran, CUDA
- - Tools: Autotools/CMake
+  - Massive parallel scientific software development
+  - Languages: Python, C/C++, Fortran, CUDA
+  - Tools: Autotools/CMake
 
 <!--
 **kaifaluo/kaifaluo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
