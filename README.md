@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-As a PhD student in physics, my recent interests are mainly on:
+As a PhD student in physics and computational science, my recent interests are mainly on:
 - First-principle Algorithm
   - DFT and DFPT
 - Scientific Computing
