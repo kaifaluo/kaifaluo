@@ -2,7 +2,8 @@
 
 As a PhD student in Physics and Computational Science, my recent interests are mainly on:
 - First-principle Algorithm
-  - DFT and DFPT
+  - Density Functional and Perturbation Theory (DFT & DFPT)
+  - Many-body Perturbation Theory
 - Scientific Computing
   - Massively parallel scientific software development
   - Languages: Python, C/C++, Fortran, CUDA
