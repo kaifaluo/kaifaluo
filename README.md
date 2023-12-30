@@ -2,12 +2,11 @@
 
 As a PhD student in Physics and Computational Science, my recent interests are mainly on:
 - First-principle Algorithm
-  - Density Functional and Perturbation Theory (DFT & DFPT)
-  - Many-body Perturbation Theory
+  - Density Functional and Perturbation Theories (DFT & DFPT)
+  - Many-body Perturbation Theories
 - Scientific Computing
-  - Massively parallel scientific software development
-  - Languages: Python, C/C++, Fortran, CUDA
-  - Tools: Autotools/CMake
+  - Massively parallel scientific software development, particularly for EPW
+  - Languages: Python, Fortran, C++, CUDA
 
 <!--
 **kaifaluo/kaifaluo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
