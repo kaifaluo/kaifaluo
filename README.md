@@ -5,7 +5,7 @@ As a PhD student in Physics and Computational Science, my recent interests are m
   - Density Functional and Perturbation Theories (DFT & DFPT)
   - Many-body Perturbation Theories
 - Scientific Computing
-  - Massively parallel scientific software development, particularly for EPW
+  - Massively parallel scientific software development, particularly for [EPW](https://epw-code.org/)
   - Languages: Python, Fortran, C++, CUDA
 
 <!--
